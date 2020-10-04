@@ -1,0 +1,14 @@
+﻿using System;
+
+namespace ISMFirstConsoleProject
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //текст
+            Console.WriteLine("Hello World!");
+            //Вивело Hello World!
+        }
+    }
+}
